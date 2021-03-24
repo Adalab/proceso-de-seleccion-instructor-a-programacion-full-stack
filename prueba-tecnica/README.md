@@ -8,7 +8,7 @@ La solución entregada debe seguir la siguiente propuesta gráfica.
 
 ![Propuesta gráfica](./propuesta-grafica.png)
 
-Para obtener la información de los Pokemon, hay que usar el API abierta https://pokeapi.co/. Este servicio tiene limitado el número de peticiones, pero existe una copia disponible en la URL http://pokeapi.salestock.net/api/v2/.
+Para obtener la información de los Pokemon, hay que usar el API abierta https://pokeapi.co/.
 
 ### Listado
 
