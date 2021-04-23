@@ -1,4 +1,4 @@
-# Buscamos profesora o profesor de programación full stack
+# Buscamos profesora o profesor de programación full stack (Proceso de selección ya cerrado)
 
 ## ¿Qué es Adalab?
 
@@ -75,7 +75,7 @@ Además de tus destrezas técnicas destacas por otras habilidades profesionales 
 
 Si estás interesada/o en este proceso de selección sigue los siguientes pasos:
 
-1. [Rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfTSinQZN9V8MmHBFrUghkMoADxBVH4fVRP3Xb881Wnpjg_0A/viewform?usp=sf_link) lo antes posible.
+1. [Rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfTSinQZN9V8MmHBFrUghkMoADxBVH4fVRP3Xb881Wnpjg_0A/viewform?usp=sf_link) lo antes posible. (El formulario ya está cerrado a nuevas candidaturas).
 1. Cuando recibamos tu solicitud evaluaremos tu perfil y en caso de que encaje con los requisitos te escribiremos para que realices una prueba técnica.
 1. Una vez hayas entregado tu prueba la evaluaremos y te avisaremos en caso de que hayas superado la prueba técnica.
 1. Las personas seleccionadas realizarán una primera entrevista con el equipo docente donde charlaremos:
