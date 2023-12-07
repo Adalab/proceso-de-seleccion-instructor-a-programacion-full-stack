@@ -1,4 +1,4 @@
-# Prueba técnica para profesora/o de fullstack de Adalab
+# Prueba técnica para Instructora/o de fullstack de Adalab
 
 La prueba consiste en desarrollar una aplicación web (front y back) que sea un listado de Pokemons.
 
@@ -13,6 +13,7 @@ Para obtener la información de los Pokemon, hay que usar el API abierta https:/
 ### Listado
 
 En la página principal debe aparecer un listado de Pokemons. De cada Pokemon mostraremos al menos esta información:
+
 - Número
 - Nombre
 - Tipo (puede ser múltiple)
@@ -31,13 +32,9 @@ Al volver a hacer click en un botón de **Volver al listado**, vuelve a aparecer
 
 ## Fase 2: back end
 
-> La fase 1 de front end es la que más nos interesa evaluar. Si no dispones de tiempo para hacer toda la prueba preferimos que no completes la fase 2 de back end.
-
 Se propone crear un servidor API similar a https://pokeapi.co/ en Node JS y Express JS.
 
 No hace falta desarrollar todos los endpoints disponibles en https://pokeapi.co/, sería suficiente con crear los endpoints que vayas a utilizar en esta aplicación.
-
-Puesto que la información de los Pokemon es estática no es obligatorio utilizar bases de datos.
 
 ## Entrega
 
@@ -48,17 +45,18 @@ Al ser dos proyectos se puede entregar en:
 
 En ambos casos te pedimos que todo el código esté en un solo repositorio con instrucciones sobre cómo arrancarlo.
 
-El código desarrollado para solucionar la prueba debe subirse a un repositorio en GitHub o similar. La entrega consiste en enviar un enlace a este repositorio a miguel@adalab.es. El plazo para realizarlo es de 7 días desde la recepción. Si no tienes disponibilidad suficiente avísanos, el objetivo no es programar con prisas. Una vez entregado, concertaremos una reunión para revisar el resultado de la prueba y entender cómo lo has planteado.
+El código desarrollado para solucionar la prueba debe subirse a un repositorio en GitHub o similar. La entrega consiste en enviar un enlace a este repositorio a yanelis@adalab.es. El plazo para realizarlo es de 7 días desde la recepción. Si no tienes disponibilidad suficiente avísanos, el objetivo no es programar con prisas. Una vez entregado, concertaremos una reunión para revisar el resultado de la prueba y entender cómo lo has planteado.
 
 ## Evaluación
 
 Durante la revisión de la prueba valoraremos estos aspectos:
+
 - Calidad de la maquetación y acercamiento a la línea gráfica propuesta.
 - Estructura y calidad del código HTML / CSS / JavaScript / Node JS desarrollado.
 - Uso adecuado de control de versiones.
 - Didáctica a la hora de explicar la prueba.
-- Se valorará muy positivamente el uso de tecnologías que enseñaremos en [nuestro curso](https://books.adalab.es), como Sass, animaciones, React, React Router, Node JS, SQL...
+- Se valorará muy positivamente el uso de tecnologías que enseñaremos en nuestro curso, como Sass, animaciones, React, React Router, Node JS, MySQL...
 
-Si tienes cualquier duda o pregunta escríbeme a miguel@adalab.es y te la contestaré lo antes posible.
+Si tienes cualquier duda o pregunta escríbeme a yanelisl@adalab.es y te la contestaré lo antes posible.
 
 Muchas gracias por esforzarte en hacer esta prueba técnica.
