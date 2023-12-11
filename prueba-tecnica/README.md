@@ -32,7 +32,7 @@ Al volver a hacer click en un botón de **Volver al listado**, vuelve a aparecer
 
 ## Fase 2: back end
 
-Se propone crear un servidor API similar a https://pokeapi.co/ en Node JS y Express JS.
+Se propone crear un servidor API similar a https://pokeapi.co/ en Node JS, Express JS y una bases de datos de tu elección entre MySQL y MongoDB.
 
 No hace falta desarrollar todos los endpoints disponibles en https://pokeapi.co/, sería suficiente con crear los endpoints que vayas a utilizar en esta aplicación.
 
